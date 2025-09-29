@@ -40,7 +40,7 @@
   },
   "course_title": "Global Warming Science",
   "hide_download": true,
-  "course_description": "This course introduces the basic science underpinning our knowledge of the climate system, how climate has changed in the past, and how it may change in the future. The course focuses on the fundamental energy balance between incoming solar radiation and outgoing infrared radiation in the climate system, and how this balance is affected by greenhouse gases. We will also discuss physical processes that shape the climate, such as atmospheric and oceanic convection and large-scale circulation, solar variability, orbital mechanics, and aerosols, as well as the evidence for past and present climate change. We will discuss climate models of varying degrees of complexity, and you will be able to run a model of a single column of the Earth\u2019s atmosphere to simulate many of the important elements of climate change.\n\nThis course is part of the {{% resource_link \"e1773ccd-c59f-4f9a-b5ec-958c8853cc9a\" \"Open Learning Library\" %}}, which is free to use. You have the option to sign up and enroll in the course if you want to track your progress, or you can view and use all the materials without enrolling.",
+  "course_description": "This course introduces the basic science underpinning our knowledge of the climate system, how climate has changed in the past, and how it may change in the future. The course focuses on the fundamental energy balance between incoming solar radiation and outgoing infrared radiation in the climate system, and how this balance is affected by greenhouse gases. We will also discuss physical processes that shape the climate, such as atmospheric and oceanic convection and large-scale circulation, solar variability, orbital mechanics, and aerosols, as well as the evidence for past and present climate change. We will discuss climate models of varying degrees of complexity, and you will be able to run a model of a single column of the Earth\u2019s atmosphere to simulate many of the important elements of climate change.\n\nThis course is part of the [Open Learning Library](https://openlearning.mit.edu/courses-programs/open-learning-library), which is free to use. You have the option to sign up and enroll in the course if you want to track your progress, or you can view and use all the materials without enrolling.",
   "department_numbers": [
     "12"
   ],
@@ -50,6 +50,7 @@
     "content": "6df311b4-a832-4257-89ed-ecf089176d90",
     "website": "global-warming-science"
   },
+  "hide_download_original": true,
   "learning_resource_types": [
     "Lecture Notes",
     "Lecture Videos",
